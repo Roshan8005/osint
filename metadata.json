@@ -1,0 +1,6 @@
+{
+  "name": "ContactTrace — Free OSINT Suite",
+  "description": "Open-source, self-hosted OSINT intelligence platform with username discovery, domain DNS/RDAP analytics, email footprint verification, and investigation case management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
